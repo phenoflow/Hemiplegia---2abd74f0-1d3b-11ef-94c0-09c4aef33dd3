@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/hemiplegia---primary.py
+inputModule3:
+  class: File
+  path: python/hemiplegia-flaccid---primary.py
+inputModule4:
+  class: File
+  path: python/spastic-hemiplegia---primary.py
+inputModule5:
+  class: File
+  path: python/congenital-hemiplegia---primary.py
+inputModule6:
+  class: File
+  path: python/hemiplegia-paraplegia---primary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
